@@ -1,0 +1,8 @@
+interface:
+  display_name: "Instagram Competitor Analysis"
+  short_description: "Analyze public Reels into competitor insights"
+  brand_color: "#034245"
+  default_prompt: "Use $instagram-competitor-analysis to analyze public Instagram Reels and create the competitor workbook."
+
+policy:
+  allow_implicit_invocation: true
