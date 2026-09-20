@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagram Competitor Strategy"
+  short_description: "Synthesize competitor reports into an 8-week growth plan"
+  default_prompt: "Use $instagram-competitor-strategy to synthesize competitor and client reports into an evidence-backed eight-week Instagram strategy."
